@@ -8,6 +8,8 @@
   <a href="#getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<br/>
+
 <p align="center">
   <img alt="Proffy" src=".github/proffy.png" width="100%">
 </p>
